@@ -98,4 +98,4 @@ int main() {
 	s->printPerson();
 	cout << "Grade: " << s->calculate() << "\n";
 	return 0;
-}
+} 
